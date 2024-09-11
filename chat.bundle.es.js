@@ -6164,7 +6164,7 @@ const Ie = qh(), Bh = { class: "chat-layout" }, Ph = {
     ]));
   }
 }), un = {
-  webhookUrl: "http://localhost:5678",
+  webhookUrl: "https://api.planningfuture.ai/webhook/c1c30d95-272b-4a0a-9a81-57290c047a85/",
   webhookConfig: {
     method: "POST",
     headers: {}
